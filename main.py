@@ -1,5 +1,4 @@
 import streamlit as st
-import requests
 from googletrans import Translator,LANGUAGES
 
 st.title("Language Translator App")
